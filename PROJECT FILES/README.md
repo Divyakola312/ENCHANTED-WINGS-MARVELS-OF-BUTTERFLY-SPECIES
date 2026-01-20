@@ -76,6 +76,16 @@ The project includes branding elements such as the animated logo (`logo.gif`) an
 
 Developed by [M.Praneetha]. Contributions, suggestions, and feedback are welcome.
 
+## 👥 Team & Contributions
+
+This project was developed as part of a **team internship**.
+
+### My Contributions:
+- Assisted in dataset preprocessing and preparation
+- Participated in team-based development and review
+
+> This repository is a fork of the original team project, created to document my individual contributions.
+
 ---
 
 ## 📃 License
